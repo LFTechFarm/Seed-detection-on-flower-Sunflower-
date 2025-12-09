@@ -5,6 +5,16 @@ This notebook provides a complete **interactive and automated workflow** for seg
 
 It is designed for noisy, uneven-lighting datasets and supports both manual exploration and fully automated batch processing.
 
+### 🎯 Goal of the Project  
+The primary goal of this tool is to **greatly accelerate and simplify the creation of annotated datasets**, especially for training deep-learning detection models (YOLO, Faster-RCNN, etc.).  
+Instead of manually drawing thousands of bounding boxes, this pipeline provides:
+
+- fast semi-automatic segmentation,  
+- automatic parameter tuning,  
+- and direct YOLO label generation,  
+
+allowing users to build high-quality labeled datasets **with minimal manual effort**.
+
 ---
 
 ## 🚀 Features
