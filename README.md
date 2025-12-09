@@ -164,8 +164,7 @@ Example usage:
 
 ```bash
 python grain_seg_optimal.py
-
-
+```
 ## 🛠️ Troubleshooting
 
 ### No objects detected  
@@ -184,9 +183,9 @@ MIT License — free to use and modify.
 
 ---
 
-## 🙋 Need more?  
-- A CLI tool  
+## 🙋 Whats next?  
 - A dedicated Python package  
 - Batch visualization exports  
-- Advanced adaptive threshold optimization  
+- Advanced adaptive threshold optimization
+- Improved zero shot annotation
 
