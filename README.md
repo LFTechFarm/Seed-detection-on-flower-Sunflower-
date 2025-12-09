@@ -187,7 +187,7 @@ MIT License — free to use and modify.
 ---
 
 ## 🙋 Whats next?  
-- A dedicated Python package  
+- Segementation of the full sunflower
 - Batch visualization exports  
 - Advanced adaptive threshold optimization
 - Improved zero shot annotation
