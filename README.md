@@ -71,6 +71,7 @@ The notebook is divided into **four main parts**, all powered by the same backen
 
 ### 1️⃣ Manual Single-Threshold Segmentation  
 A basic interactive mode:
+<img width="1202" height="681" alt="Capture d&#39;écran 2025-12-09 175844" src="https://github.com/user-attachments/assets/fc1697be-a146-4eb1-90c6-6ce6bf0496fd" />
 
 - Background subtraction  
 - Gaussian blur  
@@ -85,6 +86,7 @@ Best for basic dataset inspection.
 
 ### 2️⃣ Manual Multi-Threshold Stability Map  
 More robust segmentation using:
+<img width="1423" height="732" alt="image" src="https://github.com/user-attachments/assets/bba69f73-6890-46fd-a854-28bed96f68aa" />
 
 - A range of thresholds (`t_min → t_max`)  
 - Multiple steps (`n_steps`)  
@@ -97,6 +99,7 @@ Segmentation is re-run instantly on any parameter change.
 
 ### 3️⃣ Multi-Threshold Stability + Optimization  
 Same as Part 2, but with an **Optimize** button.
+<img width="1422" height="733" alt="image" src="https://github.com/user-attachments/assets/5d278e16-b94d-4a6c-83d7-b64774e35a84" />
 
 Pressing **🔍 Optimize t_min/t_max**:
 
